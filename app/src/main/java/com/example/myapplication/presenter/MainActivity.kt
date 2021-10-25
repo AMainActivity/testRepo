@@ -1,9 +1,10 @@
-package com.example.myapplication
+package com.example.myapplication.presenter
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
 import androidx.databinding.DataBindingUtil
+import com.example.myapplication.R
 import com.example.myapplication.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
